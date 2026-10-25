@@ -18,7 +18,7 @@ ________________________________________
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
 
-<img width="1897" height="647" alt="Screenshot 2026-10-24 095629" src="https://github.com/user-attachments/assets/8f0510cc-a1ba-4289-b58f-474633af50d4" />
+<img width="541" height="455" alt="Screenshot 2026-10-24 113315" src="https://github.com/user-attachments/assets/cf224008-b66a-48a4-954a-05be0e341668" />
 
 ________________________________________
 # IP Addressing Table
@@ -59,9 +59,15 @@ ________________________________________
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
 
-<img width="1916" height="1077" alt="Screenshot 2026-10-24 095812" src="https://github.com/user-attachments/assets/f3d72f10-5b6b-4ca6-9f9f-0b175dd79b91" />
+<img width="1916" height="1075" alt="Screenshot 2026-10-25 181519" src="https://github.com/user-attachments/assets/865a0668-facd-4127-8b78-44dfd64f1dd9" />
 
-<img width="1902" height="1075" alt="Screenshot 2026-10-24 095947" src="https://github.com/user-attachments/assets/e29dddde-bc9b-49b4-bb28-121cf58e728d" />
+<img width="1908" height="1078" alt="Screenshot 2026-10-25 181532" src="https://github.com/user-attachments/assets/3b8bc1a0-81d6-47ed-bdec-b5e71ed9e44e" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-25 181544" src="https://github.com/user-attachments/assets/6a8662f9-96e1-4c0b-a163-6294b2ce4db6" />
+
+<img width="1917" height="1077" alt="Screenshot 2026-10-24 113322" src="https://github.com/user-attachments/assets/91dc116c-ecf9-4dcf-8495-f51defe93735" />
+
+<img width="1911" height="1078" alt="Screenshot 2026-10-24 113311" src="https://github.com/user-attachments/assets/ee616cb9-ccf5-4d29-a6b9-0a23683d22aa" />
 
 ________________________________________
 # Result
