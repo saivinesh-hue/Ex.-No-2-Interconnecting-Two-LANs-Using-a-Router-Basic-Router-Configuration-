@@ -65,11 +65,11 @@ ________________________________________
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-25 181544" src="https://github.com/user-attachments/assets/6a8662f9-96e1-4c0b-a163-6294b2ce4db6" />
 
-<img width="1917" height="1077" alt="Screenshot 2026-10-24 113322" src="https://github.com/user-attachments/assets/91dc116c-ecf9-4dcf-8495-f51defe93735" />
+<img width="1907" height="1067" alt="Screenshot 2026-10-27 154613" src="https://github.com/user-attachments/assets/d168302f-21f9-4a0f-b866-ceed704401ad" />
 
-<img width="1911" height="1078" alt="Screenshot 2026-10-24 113311" src="https://github.com/user-attachments/assets/ee616cb9-ccf5-4d29-a6b9-0a23683d22aa" />
+<img width="1890" height="1075" alt="Screenshot 2026-10-27 154815" src="https://github.com/user-attachments/assets/e3aa7964-25da-4785-94e5-09cf7cab7e39" />
 
-________________________________________
+____________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
 
